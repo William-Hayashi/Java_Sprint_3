@@ -29,10 +29,10 @@ A aplicação está conectada a um banco de dados hospedado na conta do William,
 
 ## Diagramas
 ### Diagrama Relacional
-![Diagrama Relacional](Documentos/Relacional.png)
+![Diagrama Relacional](/Documentos/RELATIONAL%20-%20SPRINT%202.png)
 
 ### Diagrama de Lógico
-![Diagrama Lógico](Documentos/Logical.png)
+![Diagrama Lógico](Documentos/LOGICAL%20-%20SPRINT%202.png)
 
 ## Link do Vídeo de Apresentação
 - [Link do Vídeo](Adicionar Link do Vídeo)
