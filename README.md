@@ -13,7 +13,7 @@ A divisão das atividades foi realizada conforme as disciplinas da grade curricu
 - **William**: Java Advanced, Mastering Relational e Non-Relational Database
 
 ## Cronograma de Tarefas
-- [Link do Bacllog](LINK BACKLOG)
+- ([LINK BACKLOG](https://dev.azure.com/Challenge-QA-Odontoprev/QA%20-%20Odontoprev))
 
 ##
 - [DOCUMENTAÇÃO JAVA](Documentos/Documentação/DOCUMENTAÇÃO%20JAVA.pdf)
@@ -21,9 +21,9 @@ A divisão das atividades foi realizada conforme as disciplinas da grade curricu
 ## Rodagem da Aplicação
 Para executar o projeto MVC, somente dar o start na aplicação
 
-1. Execute a classe `TesteSpringApplication`.
+1. Execute a classe `SpringMvcApplicationSprintApplication`.
 2. Aguarde a inicialização completa da aplicação.
-3. Abrirá a tela inicial e assim poderá navegar entre as rotas disponíveis de Cliente e Profissional, onde estarão com um CRUD
+3. Abrirá a tela inicial e assim poderá navegar entre as rotas disponíveis de Cliente e Profissional, onde abrirá o index com a opção de Cliente e Profissional
 
 A aplicação está conectada a um banco de dados hospedado na conta do William, utilizando as credenciais presentes no arquivo de configuração. A porta configurada para a aplicação é a **8080**.
 
@@ -35,5 +35,4 @@ A aplicação está conectada a um banco de dados hospedado na conta do William,
 ![Diagrama Lógico](Documentos/LOGICAL%20-%20SPRINT%202.png)
 
 ## Link do Vídeo de Apresentação
-- [Link do Vídeo](Adicionar Link do Vídeo)
-
+- [[Link do Vídeo](https://youtu.be/vFPm251j0ns)]
