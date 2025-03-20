@@ -16,7 +16,7 @@ A divisão das atividades foi realizada conforme as disciplinas da grade curricu
 - ([LINK BACKLOG](https://dev.azure.com/Challenge-QA-Odontoprev/QA%20-%20Odontoprev))
 
 ##
-- [DOCUMENTAÇÃO JAVA](Documentos/Documentação/DOCUMENTAÇÃO%20JAVA.pdf)
+- [DOCUMENTAÇÃO JAVA]([Documentos/Documentação/DOCUMENTAÇÃO%20JAVA.pdf](https://docs.google.com/document/d/1_4xiCG9Wv9MBtTz5zb-e-cLZ9LVr8VCu/edit?usp=sharing&ouid=104428132100660298228&rtpof=true&sd=true))
 
 ## Rodagem da Aplicação
 Para executar o projeto MVC, somente dar o start na aplicação
