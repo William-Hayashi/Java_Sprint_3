@@ -16,23 +16,16 @@ A divisão das atividades foi realizada conforme as disciplinas da grade curricu
 - ([LINK BACKLOG](https://dev.azure.com/Challenge-QA-Odontoprev/QA%20-%20Odontoprev))
 
 ## Documentação 
-- https://docs.google.com/document/d/1_4xiCG9Wv9MBtTz5zb-e-cLZ9LVr8VCu/edit?usp=sharing&ouid=104428132100660298228&rtpof=true&sd=true
+- [https://docs.google.com/document/d/1_4xiCG9Wv9MBtTz5zb-e-cLZ9LVr8VCu/edit?usp=sharing&ouid=104428132100660298228&rtpof=true&sd=true](https://docs.google.com/document/d/14CqpSlKxwXxSCao6wGNRvQ6MpmNDO7FL/edit?usp=sharing&ouid=104428132100660298228&rtpof=true&sd=true)
   
 ## Rodagem da Aplicação
 Para executar o projeto MVC, somente dar o start na aplicação
 
-1. Execute a classe `SpringMvcApplicationSprintApplication`.
+1. Execute a classe `main`.
 2. Aguarde a inicialização completa da aplicação.
 3. Abrirá a tela inicial e assim poderá navegar entre as rotas disponíveis de Cliente e Profissional, onde abrirá o index com a opção de Cliente e Profissional
 
 A aplicação está conectada a um banco de dados hospedado na conta do William, utilizando as credenciais presentes no arquivo de configuração. A porta configurada para a aplicação é a **8080**.
-
-## Diagramas
-### Diagrama Relacional
-![Diagrama Relacional](/Documentos/RELATIONAL%20-%20SPRINT%202.png)
-
-### Diagrama de Lógico
-![Diagrama Lógico](Documentos/LOGICAL%20-%20SPRINT%202.png)
 
 ## Link do Vídeo de Apresentação
 - [[Link do Vídeo](https://youtu.be/vFPm251j0ns)]
